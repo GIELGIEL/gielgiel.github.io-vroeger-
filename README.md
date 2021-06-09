@@ -23,7 +23,7 @@
   </style>
 </head>
 <body>
-<img src="/assets/anna.png">
+<img src="/Mijn Hoofd.jfif">
   <h1>GIEL MUGGEN</h1>
   <p>Hele goeie website</p>
   <input type="email" placeholder="typ iets">
