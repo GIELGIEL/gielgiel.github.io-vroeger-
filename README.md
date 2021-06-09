@@ -1,2 +1,2 @@
-# gielgiel.githubl.io
+# gielgiel.github.io
 De beste website
