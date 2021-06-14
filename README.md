@@ -4,7 +4,7 @@
   <style>
     body {
       text-align: center;
-      background: url("/deruimte.png");
+      background: url("/deruimte.jpg");
       background-size: cover;
       background-position: center;
       color: white;
