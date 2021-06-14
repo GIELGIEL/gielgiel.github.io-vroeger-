@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
   <title>Giel Muggen</title>
   <style>
@@ -20,4 +19,3 @@
   <h1>GIEL MUGGEN</h1>
   <p>Hele goeie website</p>
 </body>
-</html>
