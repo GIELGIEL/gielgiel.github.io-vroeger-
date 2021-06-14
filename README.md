@@ -18,6 +18,5 @@
 <img src="/Mijn Hoofd.jfif">
   <h1>GIEL MUGGEN</h1>
   <p>Hele goeie website</p>
-  <ul>"Ik zit op het Ds. Pierson college"
-  </ul>
+  <ul>Ik zit op het Ds. Pierson college</ul>
 </body>
