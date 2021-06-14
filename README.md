@@ -1,5 +1,5 @@
 <head>
-  <title>Giel Muggen</title>
+  <title>Kaas</title>
   <style>
     body {
       text-align: center;
@@ -16,8 +16,8 @@
 </head>
 <body>
 <img src="/Mijn Hoofd.jfif">
-  <h1>GIEL MUGGEN</h1>
-  <p>Hele goeie website</p>
-  <ul>Ik zit op het Ds. Pierson college</ul>
-  <ul>Ik ben 13 Jaar oud</ul>
+  <h1>KAAS</h1>
+  <p>De beste website voor kaas</p>
+  <ul>Kaas wordt gemaakt van melk.</ul>
+  <ul></ul>
 </body>
