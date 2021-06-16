@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-<img src="/kaas.jpg">
+<img src="/kaas.png">
   <h1>KAAS</h1>
   <p>De beste website voor kaas</p>
   <ul>Kaas wordt gemaakt van melk.</ul>
