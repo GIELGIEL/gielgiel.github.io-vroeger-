@@ -3,7 +3,7 @@
   <style>
     body {
       text-align: center;
-      background: url("/deruimte.jpg");
+      background: url("/kaaswinkel.jpg");
       background-size: cover;
       background-position: center;
       color: white;
